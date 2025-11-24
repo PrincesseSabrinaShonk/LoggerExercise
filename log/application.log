@@ -1,0 +1,5 @@
+2025-11-24 12:00:28 DEBUG Main:15 - This is debug : ☕ 
+2025-11-24 12:00:28 INFO  Main:18 - This is info : ☕ 
+2025-11-24 12:00:28 WARN  Main:20 - This is warn : ☕ 
+2025-11-24 12:00:28 ERROR Main:21 - This is error : ☕ 
+2025-11-24 12:00:28 FATAL Main:22 - This is fatal : ☕ 
